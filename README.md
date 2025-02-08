@@ -1,5 +1,5 @@
 # 💫 A propos de moi :
-Juste un mec chill qui apprend à coder, un petit follow ? <img src="https://us-tuna-sounds-images.voicemod.net/618227e7-6df9-4ca3-ae49-afdb2ae97d16-1707934032767.png" alt="svp" width="200"/>
+Juste un mec chill qui apprend à coder, un petit follow ? <img src="https://us-tuna-sounds-images.voicemod.net/618227e7-6df9-4ca3-ae49-afdb2ae97d16-1707934032767.png" alt="svp" width="50"/>
 
 # 🌐 Discord :
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/609413089938505728) 
