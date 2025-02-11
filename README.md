@@ -1,8 +1,10 @@
 # 💫 A propos de moi :
-<table>
+<table style="border-collapse: collapse; border: none;">
   <tr>
-    <td>Juste un mec chill qui apprend à coder, un petit follow ?</td>
-    <td><img src="https://us-tuna-sounds-images.voicemod.net/618227e7-6df9-4ca3-ae49-afdb2ae97d16-1707934032767.png" alt="svp" width="50"/></td>
+    <td style="border: none;">Juste un mec chill qui apprend à coder, un petit follow ?</td>
+    <td style="border: none;">
+      <img src="https://us-tuna-sounds-images.voicemod.net/618227e7-6df9-4ca3-ae49-afdb2ae97d16-1707934032767.png" alt="svp" width="70"/>
+    </td>
   </tr>
 </table>
 
