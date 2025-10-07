@@ -1,3 +1,4 @@
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5291098" style='border:none;'></iframe>
 # 🌐 Discord :
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge&scale=2)](https://discord.com/users/609413089938505728) 
 
